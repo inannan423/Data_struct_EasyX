@@ -1,0 +1,14 @@
+﻿  ConsoleApplication1.cpp
+E:\desks\CS-DataStruct\实习程序-程子涵\ConsoleApplication1.cpp(45,2): warning C4091: “typedef ”: 没有声明变量时忽略“Stock”的左侧
+E:\desks\CS-DataStruct\实习程序-程子涵\ConsoleApplication1.cpp(75,2): warning C4091: “typedef ”: 没有声明变量时忽略“Shares”的左侧
+E:\desks\CS-DataStruct\实习程序-程子涵\ConsoleApplication1.cpp(185,16): warning C4018: “>”: 有符号/无符号不匹配
+E:\desks\CS-DataStruct\实习程序-程子涵\ConsoleApplication1.cpp(400,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\desks\CS-DataStruct\实习程序-程子涵\ConsoleApplication1.cpp(618,14): warning C4018: “<”: 有符号/无符号不匹配
+E:\desks\CS-DataStruct\实习程序-程子涵\ConsoleApplication1.cpp(639,20): warning C4018: “<=”: 有符号/无符号不匹配
+E:\desks\CS-DataStruct\实习程序-程子涵\ConsoleApplication1.cpp(639,53): warning C4018: “<=”: 有符号/无符号不匹配
+E:\desks\CS-DataStruct\实习程序-程子涵\ConsoleApplication1.cpp(649,15): warning C4018: “>”: 有符号/无符号不匹配
+E:\desks\CS-DataStruct\实习程序-程子涵\ConsoleApplication1.cpp(3694,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\desks\CS-DataStruct\实习程序-程子涵\ConsoleApplication1.cpp(4473,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\desks\CS-DataStruct\实习程序-程子涵\ConsoleApplication1.cpp(762): warning C4715: “BtreeASL”: 不是所有的控件路径都返回值
+E:\desks\CS-DataStruct\实习程序-程子涵\ConsoleApplication1.cpp(4088): warning C4715: “BGraph_Findname”: 不是所有的控件路径都返回值
+  ConsoleApplication1.vcxproj -> E:\desks\CS-DataStruct\实习程序-程子涵\Debug\ConsoleApplication1.exe
